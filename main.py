@@ -6,8 +6,8 @@
 class Factory:
 
     def __init__(self):
-
         print('Hello')
+        print('Goodbye')
 
 
 def print_hi(name):
