@@ -17,5 +17,6 @@ def say_goodbye(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     say_goodbye('Max')
+    print('Hi')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
