@@ -20,6 +20,11 @@ def say_goodbye(name):
 # Press the green button in the gutter to run the script.
 
 
+def super_useful_function(*input_data):
+    for i in input_data:
+        yield i
+
+
 if __name__ == '__main__':
     print_hi('PyCharm')
     say_goodbye('Max')
